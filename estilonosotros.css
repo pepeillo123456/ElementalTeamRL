@@ -1,0 +1,138 @@
+*{
+	background: url(ChampionsField.jpg); 
+	background-size: cover;
+    background-attachment: fixed;
+
+}
+
+
+
+
+.iniciodp{
+    position: relative;
+    right:1400px; 
+    left:1400px;
+    bottom: 62px;
+
+
+
+
+	font-family: 'Secular One', sans-serif;
+    border: none;
+    width: 100%;
+    color: white;
+    font-size: 20px;
+    background:  gray;
+    padding: 1px 2px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.iniciodp:hover{
+	background-color:white;
+	color: black;
+}
+
+h1,p{
+	color: white;
+}
+
+.misredes{
+    position: relative;
+    right:1400px; 
+    left:1410px;
+    bottom: 62px;
+
+
+
+
+	font-family: 'Secular One', sans-serif;
+    border: none;
+    width: 100%;
+    color: white;
+    font-size: 20px;
+    background:  gray;
+    padding: 1px 2px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.misredes:hover{
+	background-color: white;
+	color: black;
+}
+
+.videoclips{
+    position: relative;
+    right:1400px; 
+    left:1420px;
+    bottom: 62px;
+
+
+
+	font-family: 'Secular One', sans-serif;
+    border: none;
+    width: 100%;
+    color: white;
+    font-size: 20px;
+    background:  gray;
+    padding: 1px 2px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.videoclips:hover{
+	background-color: white;
+	color: black;
+}
+
+
+.volverinicio{
+	font-family: 'Secular One', sans-serif;
+    border: none;
+    width: 100%;
+    color: white;
+    font-size: 20px;
+    background:  gray;
+    padding: 1px 2px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+
+    position: relative;
+    left:1739px ;
+    right: px ;
+    bottom:167px;
+}
+
+.volverinicio:hover{
+	background-color:white;
+	color: black;
+}
+
+img{
+	position: relative;
+	bottom: -40px;
+	left:400px;
+}
+
+
+.TXTh1{
+	font-family: 'Secular One', sans-serif;
+	position: relative;
+	right:600px; 
+	left:680px;
+	display: inline;
+	bottom: 170px;
+}
+
+h1{
+	font-family: 'Secular One', sans-serif;
+}
+
+
+
+    
