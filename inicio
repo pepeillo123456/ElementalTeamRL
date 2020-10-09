@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>inicio de la pagina</title>
+   <meta charset="utf-8">
+   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" >
+   <link href="https://fonts.googleapis.com/css2?family=Secular+One&display=swap" rel="stylesheet">
+   <link rel="stylesheet" type="text/css" href="estilo.css">
+   <link rel="icon" href="em1.ico">
+</head>
+<header>
+   <h1>Inicio</h1>
+</header>
+     <body>
+         <header>
+         	 <nav>
+         	 	<ul id="complementos">
+            <a  class="micuenta" href="registrarvista.html">Mi cuenta</a> 
+         	 	<a class="misredes" href="cuenta.html">Redes De EML</a>
+         	  <a class="nosotros" href="nosotros.html">sobre EML</a>
+            <a class="videoclips" href="videos.html">videos,clips e info</a>
+         	 	</ul>
+         	 </nav>
+         </header>
+
+
+
+
+         <section>
+          <h1>
+             esta pagina web es del team elemental
+          </h1> 
+          <p>
+             en esta pagina te podras informar sobre todas las novedades del team elemental(EML)
+          </p> 
+         </section>
+         <article>
+            <p>
+            El team Elemental es un team competitivo de rocket que esta dentro de el team l3gend, en el apartado de rocket league. Esta página consta de diferentes secciones como por ejemplo videos,clips e info, esos botones te permiten entrar en las secciones que hay en proximas actualizaciones se añadiran más 
+            </p>
+         </article>
+  <footer>
+     <h4 id="copy">
+        Copyright- Todos Los derechos reservados
+     </h4>
+  </footer>
+     </body>
+</html>
